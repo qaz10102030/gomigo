@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_route_plan"
+            android:icon="@drawable/ic_route_plan"
+            android:title="路徑規畫" />
+        <item
+            android:id="@+id/nav_history_data"
+            android:icon="@drawable/ic_history_data"
+            android:title="歷史資料" />
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/ic_about_us"
+            android:title="關於本程式" />
+        <item
+            android:id="@+id/nav_contact_dev"
+            android:icon="@drawable/ic_contact_dev"
+            android:title="聯絡開發者" />
+    </group>
+
+</menu>
