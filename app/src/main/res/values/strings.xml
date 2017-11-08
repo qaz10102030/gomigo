@@ -3,4 +3,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="title_activity_maps">Gomigo</string>
+    <string name="mqttUserName">16b49341-9a95-4998-873c-3f6db31f1d99:d0153d9c-6be0-49a3-8ce9-a1b6d7dd1c82</string>
+    <string name="mqttPassword">d4vs50nverbdu7ki73314i8sse</string>
+    <string name="mqttServer">tcp://wise-msghub.eastasia.cloudapp.azure.com:1883</string>
 </resources>
